@@ -6,5 +6,5 @@
 
 ### Work Experience
 
-###Projects
+### Projects
 
